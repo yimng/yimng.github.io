@@ -4,16 +4,16 @@
 
 # Site
 title: Hello World!
-subtitle: ''
+subtitle: 'Welcome to my blog'
 description: ''
-keywords: python,python3,process,script
+keywords: python,python3,process,script,java,go,linux,
 author: Lukun
 language: zh-CN
 timezone: 'Asia/Shanghai'
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: https://yimng.github.com
+url: https://yimng.github.io
 root: /
 permalink: :year/:month/:day/:title/
 permalink_defaults:
@@ -98,7 +98,7 @@ theme: fluid
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
-  type: 'git'
-  repo: https://github.com/yimng/yimng.github.io
-  branch: master
+  type: ''
+  #repo: https://github.com/yimng/yimng.github.io
+  #branch: master
 
